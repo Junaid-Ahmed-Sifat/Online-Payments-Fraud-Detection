@@ -3,10 +3,11 @@ The prevalence of online payment fraud presents a significant challenge to indiv
 
 Dataset Link https://www.kaggle.com/datasets/kartik2112/fraud-detection
 
-I have done this project in my undergrade course(CSE422- Artificial Intelligence)
 
 <br />
+
+##### **I have done this project in my undergrade course(CSE422- Artificial Intelligence)**
+---
+
 ## **Language used**
 * Python
-
-

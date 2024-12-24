@@ -5,5 +5,5 @@ Dataset Link https://www.kaggle.com/datasets/kartik2112/fraud-detection
 
 I have done this project in my undergrade course(CSE422- Artificial Intelligence)
 
-Language Used
-Python
+
+
